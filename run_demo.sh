@@ -7,6 +7,5 @@ then
     rm facebook.tar.gz
 fi
 
-pip install -r requirements.txt
 
-python run.py facebook/0.edges, facebook/107.edges, facebook/348.edges
+python run.py facebook/0.edges facebook/107.edges facebook/348.edges -n_iter 2500
