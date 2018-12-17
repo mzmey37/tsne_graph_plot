@@ -39,4 +39,5 @@ optional arguments:
                         perplexity
   -n_iter N_ITER        number of iterations for tsne
 ```
-
+## Example
+![Screenshot](./result.jpg)
